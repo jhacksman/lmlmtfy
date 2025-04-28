@@ -1,19 +1,20 @@
 # LMLMTFY - Let Me Language Model That For You
 
-A sarcastic tool to show people how to use language models to answer their questions, inspired by [letmegooglethat.com](https://letmegooglethat.com) and [letmegpt.com](https://letmegpt.com).
+An educational tool to demonstrate how language models can provide accurate, cited answers to questions, inspired by the concept of [letmegooglethat.com](https://letmegooglethat.com) but with an ethical alternative to Google's search.
 
 ## Purpose
 
-LMLMTFY (Let Me Language Model That For You) is a web application designed to create shareable links that demonstrate how to use a language model to answer questions. It's a playful way to respond to questions that could easily be answered by a language model, similar to how "Let Me Google That For You" works for search engines.
+LMLMTFY (Let Me Language Model That For You) is a web application designed to create shareable links that demonstrate the power and ease of using language models to answer questions with proper citations. Unlike Google, which often prioritizes ad revenue and tracks user data, language models can provide direct, comprehensive answers without the privacy concerns.
 
-When someone shares an LMLMTFY link, the recipient sees an animation of someone typing their question into a language model interface and receiving an answer - showing them how they could have done it themselves.
+When someone shares an LMLMTFY link, the recipient sees an informative demonstration of how to use a language model to get precise answers with citations - empowering them with a better alternative to traditional search engines.
 
 ## Features
 
-- Clean, modern interface mimicking a generic language model
-- Three.js powered animations showing the typing process
-- Shareable links that demonstrate the query process
+- Clean, modern interface showcasing a generic language model
+- Three.js powered animations demonstrating the question-answering process
+- Shareable links that educate users on getting accurate, cited information
 - Mobile-responsive design
+- Emphasis on privacy and ethical information retrieval
 
 ## Implementation Methodology
 
@@ -64,7 +65,8 @@ We'll use Three.js to create a visually appealing, modern language model interfa
 
 1. Enter a question in the input field
 2. Click "Ask Language Model"
-3. Share the generated link with someone who could have used a language model themselves
+3. Share the generated link to educate others about the benefits of using language models for research and information gathering
+4. Help promote ethical alternatives to traditional search engines
 
 ## Contributing
 
